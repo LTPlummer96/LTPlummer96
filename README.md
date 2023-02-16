@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LTPlummer96
 - 👀 I’m interested in learning as much as I can about programming: I currently just am excited to be a part of this community!
-- 🌱 I’m currently learning Java data structures such as linked lists, binary trees and two-dimensional arrays
-- 💞️ I’m looking to collaborate on any project that allows a programmer of eight months of experience to help!
+- 🌱 I’m currently learning OpenGL C++ computer graphics programming and SQL database management
+- 💞️ I’m looking to collaborate on any project that allows a programmer of 2+ years to help!
 - 📫 How to reach me: just message me on here!
 
 <!---
